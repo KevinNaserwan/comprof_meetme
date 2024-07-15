@@ -368,7 +368,7 @@
             </div>
         </section><!-- End Services Section -->
 
-        <!-- @include('testimonial') -->
+
 
         <!-- ======= Team Section ======= -->
         <section id="team" class="team">
