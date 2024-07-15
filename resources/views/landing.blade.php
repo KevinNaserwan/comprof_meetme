@@ -57,8 +57,8 @@
                         <ul>
                             <li><a class="nav-link scrollto" href="#about">About Us</a></li>
                             <li><a class="nav-link scrollto" href="#team">Team</a></li>
-                            <li><a class="nav-link scrollto" href="#testimonials">Testimonials</a></li>
-                            <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i
+                            <!-- <li><a class="nav-link scrollto" href="#testimonials">Testimonials</a></li> -->
+                            <!-- <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i
                                         class="bi bi-chevron-right"></i></a>
                                 <ul>
                                     <li><a href="#">Deep Drop Down 1</a></li>
@@ -67,7 +67,7 @@
                                     <li><a href="#">Deep Drop Down 4</a></li>
                                     <li><a href="#">Deep Drop Down 5</a></li>
                                 </ul>
-                            </li>
+                            </li> -->
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="#services">Services</a></li>
@@ -78,8 +78,8 @@
             </nav><!-- .navbar -->
 
             <div class="header-social-links d-flex align-items-center">
-                <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+                <a target="_blank" href="https://www.instagram.com/meets.indonesia/" class="instagram"><i class="bi bi-instagram"></i></a>
+                <a target="_blank" href="https://www.linkedin.com/company/meets-indonesia/" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
             </div>
 
         </div>
@@ -94,7 +94,7 @@
                     data-aos="fade-up">
                     <div>
                         <h1>With Meet.me</h1>
-                        <h1>We help you design your digital products that helps grow your businesses</h1>
+                        <h1>We'll help you design your digital products that helps grow your businesses</h1>
                         <a href="#about" class="btn-get-started scrollto">Get Started</a>
                     </div>
                 </div>
@@ -159,8 +159,8 @@
                     <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
                         <ul id="portfolio-flters">
                             <li data-filter="*" class="filter-active">All</li>
-                            <li data-filter=".filter-app">App</li>
-                            <li data-filter=".filter-card">Card</li>
+                            <!-- <li data-filter=".filter-app">App</li>
+                            <li data-filter=".filter-card">Card</li> -->
                             <li data-filter=".filter-web">Web</li>
                         </ul>
                     </div>
@@ -168,7 +168,7 @@
 
                 <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-wrap">
                             <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -181,24 +181,24 @@
                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <div class="col-lg-6 col-md-6 portfolio-item filter-web">
                         <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/portfolio/portfolio-show-web-1.png" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Web 3</h4>
+                                <h4>Sistem Akademik UNSRI</h4>
                                 <p>Web</p>
                             </div>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                                <a href="assets/img/portfolio/portfolio-web-1.png" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Sistem Akademik UNSRI"><i class="bx bx-plus"></i></a>
+                                <a target="_blank" href="https://simak-unsri.vercel.app" title="More Details"><i class="bx bx-link"></i></a>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-wrap">
                             <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -211,9 +211,9 @@
                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                         <div class="portfolio-wrap">
                             <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -226,24 +226,24 @@
                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <div class="col-lg-6 col-md-6 portfolio-item filter-web">
                         <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/portfolio/portfolio-web-2.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Web 2</h4>
+                                <h4>Website Bujang Gadis</h4>
                                 <p>Web</p>
                             </div>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                                <a href="assets/img/portfolio/portfolio-web-2.jpg" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Website Bujang Gadis"><i class="bx bx-plus"></i></a>
+                                <a target="_blank" href="https://bujang-gadis-cms.vercel.app" title="More Details"><i class="bx bx-link"></i></a>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-wrap">
                             <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -256,9 +256,9 @@
                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                         <div class="portfolio-wrap">
                             <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -271,9 +271,9 @@
                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                         <div class="portfolio-wrap">
                             <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -286,9 +286,9 @@
                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
                         <div class="portfolio-wrap">
                             <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -301,7 +301,7 @@
                                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
 
@@ -368,110 +368,7 @@
             </div>
         </section><!-- End Services Section -->
 
-        <!-- ======= Testimonials Section ======= -->
-        <section id="testimonials" class="testimonials">
-            <div class="container">
 
-                <div class="section-title" data-aos="fade-up">
-                    <h2>Testimonials</h2>
-                    <p>Our clients' satisfaction is at the heart of everything we do, and their words reflect the
-                        quality of our
-                        work and dedication to their success. Here's what some of our valued clients have to say about
-                        their
-                        experiences partnering with us</p>
-                </div>
-
-                <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-                    <div class="swiper-wrapper">
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit
-                                    rhoncus. Accusantium
-                                    quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img"
-                                    alt="">
-                                <h3>Saul Goodman</h3>
-                                <h4>Ceo &amp; Founder</h4>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid
-                                    cillum eram malis
-                                    quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img"
-                                    alt="">
-                                <h3>Sara Wilsson</h3>
-                                <h4>Designer</h4>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem
-                                    veniam duis minim
-                                    tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img"
-                                    alt="">
-                                <h3>Jena Karlis</h3>
-                                <h4>Store Owner</h4>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim
-                                    fugiat minim velit
-                                    minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore
-                                    illum veniam.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img"
-                                    alt="">
-                                <h3>Matt Brandon</h3>
-                                <h4>Freelancer</h4>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                        <div class="swiper-slide">
-                            <div class="testimonial-item">
-                                <p>
-                                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster
-                                    veniam enim culpa
-                                    labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi
-                                    cillum quid.
-                                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                                </p>
-                                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img"
-                                    alt="">
-                                <h3>John Larson</h3>
-                                <h4>Entrepreneur</h4>
-                            </div>
-                        </div><!-- End testimonial item -->
-
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-
-            </div>
-        </section><!-- End Testimonials Section -->
 
         <!-- ======= Team Section ======= -->
         <section id="team" class="team">
@@ -564,13 +461,13 @@
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
                                 <h4>Email:</h4>
-                                <p>meetme@meet.id</p>
+                                <p>indraadha24@gmail.com</p>
                             </div>
 
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
                                 <h4>Call:</h4>
-                                <p>+1 5589 55488 55s</p>
+                                <p>085974744019</p>
                             </div>
 
                             <iframe
@@ -600,12 +497,12 @@
                             <p>
                                 Palembang<br>
                                 Sumatra Selatan, Indonesia<br><br>
-                                <strong>Phone:</strong> +1 5589 55488 55<br>
-                                <strong>Email:</strong> meetme@meet.id<br>
+                                <strong>Phone:</strong> 085974744019<br>
+                                <strong>Email:</strong> indraadha24@gmail.com<br>
                             </p>
                             <div class="social-links mt-3">
-                                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                                <a target="_blank" href="https://www.instagram.com/meets.indonesia/" class="instagram"><i class="bx bxl-instagram"></i></a>
+                                <a target="_blank" href="https://www.linkedin.com/company/meets-indonesia/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                             </div>
                         </div>
                     </div>
@@ -614,21 +511,21 @@
                         <h4>Useful Links</h4>
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
+                            <!-- <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li> -->
                         </ul>
                     </div>
 
                     <div class="col-lg-4 col-md-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Web Design</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Web Development</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Mobile App Development</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Custom Software Solution</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#services">IT Consulting</a></li>
                         </ul>
                     </div>
 
