@@ -521,8 +521,8 @@
                     <div class="col-lg-4 col-md-6 footer-links">
                         <h4>Our Services</h4>
                         <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Web Design</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Web Development</a></li>
+                            <!-- <li><i class="bx bx-chevron-right"></i> <a href="#services">Web Design</a></li> -->
+                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Web App Base</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#services">Mobile App Development</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#services">Custom Software Solution</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#services">IT Consulting</a></li>
