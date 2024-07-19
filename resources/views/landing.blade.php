@@ -78,8 +78,10 @@
             </nav><!-- .navbar -->
 
             <div class="header-social-links d-flex align-items-center">
-                <a target="_blank" href="https://www.instagram.com/meets.indonesia/" class="instagram"><i class="bi bi-instagram"></i></a>
-                <a target="_blank" href="https://www.linkedin.com/company/meets-indonesia/" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+                <a target="_blank" href="https://www.instagram.com/meets.indonesia/" class="instagram"><i
+                        class="bi bi-instagram"></i></a>
+                <a target="_blank" href="https://www.linkedin.com/company/meets-indonesia/" class="linkedin"><i
+                        class="bi bi-linkedin"></i></i></a>
             </div>
 
         </div>
@@ -158,7 +160,7 @@
                 <div class="row">
                     <div class="col-lg-12 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
                         <ul id="portfolio-flters">
-                            <li data-filter="*" class="filter-active">All</li>
+                            {{-- <li data-filter="*" class="filter-active">All</li> --}}
                             <!-- <li data-filter=".filter-app">App</li>
                             <li data-filter=".filter-card">Card</li> -->
                             <li data-filter=".filter-web">Web</li>
@@ -185,15 +187,17 @@
 
                     <div class="col-lg-6 col-md-6 portfolio-item filter-web">
                         <div class="portfolio-wrap">
-                            <img src="assets/img/portfolio/portfolio-show-web-1.png" class="img-fluid" alt="">
+                            <img src="assets/img/portfolio/portoKevin2 1.png" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Sistem Akademik UNSRI</h4>
+                                <h4>Website Bujang Gadis UNSRI</h4>
                                 <p>Web</p>
                             </div>
                             <div class="portfolio-links">
-                                <a href="assets/img/portfolio/portfolio-web-1.png" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Sistem Akademik UNSRI"><i class="bx bx-plus"></i></a>
-                                <a target="_blank" href="https://simak-unsri.vercel.app" title="More Details"><i class="bx bx-link"></i></a>
+                                <a href="assets/img/portfolio/portoKevin2 1.png" data-gallery="portfolioGallery"
+                                    class="portfolio-lightbox" title="Sistem Akademik UNSRI"><i
+                                        class="bx bx-plus"></i></a>
+                                <a target="_blank" href="https://simak-unsri.vercel.app" title="More Details"><i
+                                        class="bx bx-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -232,13 +236,15 @@
                         <div class="portfolio-wrap">
                             <img src="assets/img/portfolio/portfolio-web-2.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
-                                <h4>Website Bujang Gadis</h4>
+                                <h4>Website Bujang Gadis Teknik</h4>
                                 <p>Web</p>
                             </div>
                             <div class="portfolio-links">
                                 <a href="assets/img/portfolio/portfolio-web-2.jpg" data-gallery="portfolioGallery"
-                                    class="portfolio-lightbox" title="Website Bujang Gadis"><i class="bx bx-plus"></i></a>
-                                <a target="_blank" href="https://bujang-gadis-cms.vercel.app" title="More Details"><i class="bx bx-link"></i></a>
+                                    class="portfolio-lightbox" title="Website Bujang Gadis"><i
+                                        class="bx bx-plus"></i></a>
+                                <a target="_blank" href="https://bujang-gadis-cms.vercel.app" title="More Details"><i
+                                        class="bx bx-link"></i></a>
                             </div>
                         </div>
                     </div>
@@ -386,16 +392,16 @@
 
                     <div class="col-lg-4 col-md-6">
                         <div class="member" data-aos="zoom-in">
-                            <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid"
+                            <div class="pic"><img src="assets/img/team/anop.jpg" class="img-fluid"
                                     alt=""></div>
                             <div class="member-info">
                                 <h4>Ahmad Naufal Muzakki</h4>
                                 <span>Chief Executive Officer</span>
                                 <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
                                     <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
+                                    <a href="https://www.linkedin.com/in/naufalmzkki/"><i
+                                            class="bi bi-linkedin"></i></a>
+                                    <a href="https://github.com/hiiamanop"><i class="bi bi-github"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -403,16 +409,18 @@
 
                     <div class="col-lg-4 col-md-6">
                         <div class="member" data-aos="zoom-in" data-aos-delay="100">
-                            <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid"
+                            <div class="pic"><img src="assets/img/team/nadia.jpg" class="img-fluid"
                                     alt=""></div>
                             <div class="member-info">
                                 <h4>Nadia Laras</h4>
-                                <span>Product Manager</span>
+                                <span>Chief Project Officer</span>
                                 <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
+                                    <a href="https://www.instagram.com/nadialaraz
+"><i
+                                            class="bi bi-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/nadialaraz"><i
+                                            class="bi bi-linkedin"></i></a>
+                                    <a href="https://github.com/nadialaraz"><i class="bi bi-github"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -420,16 +428,15 @@
 
                     <div class="col-lg-4 col-md-6">
                         <div class="member" data-aos="zoom-in" data-aos-delay="200">
-                            <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid"
+                            <div class="pic"><img src="assets/img/team/kevin.jpg" class="img-fluid"
                                     alt=""></div>
                             <div class="member-info">
                                 <h4>Kevin Putra Yudha Naserwan</h4>
-                                <span>CTO</span>
+                                <span>Chief Technology Officer</span>
                                 <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
+                                    <a href="https://www.instagram.com/kevinnaserwan"><i class="bi bi-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/kevinnaserwan"><i class="bi bi-linkedin"></i></a>
+                                    <a href="https://github.com/KevinNaserwan"><i class="bi bi-github"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -467,7 +474,7 @@
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
                                 <h4>Call:</h4>
-                                <p>085974744019</p>
+                                <p>088286248723</p>
                             </div>
 
                             <iframe
@@ -497,12 +504,14 @@
                             <p>
                                 Palembang<br>
                                 Sumatra Selatan, Indonesia<br><br>
-                                <strong>Phone:</strong> 085974744019<br>
+                                <strong>Phone:</strong> 088286248713<br>
                                 <strong>Email:</strong> indraadha24@gmail.com<br>
                             </p>
                             <div class="social-links mt-3">
-                                <a target="_blank" href="https://www.instagram.com/meets.indonesia/" class="instagram"><i class="bx bxl-instagram"></i></a>
-                                <a target="_blank" href="https://www.linkedin.com/company/meets-indonesia/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                                <a target="_blank" href="https://www.instagram.com/meets.indonesia/"
+                                    class="instagram"><i class="bx bxl-instagram"></i></a>
+                                <a target="_blank" href="https://www.linkedin.com/company/meets-indonesia/"
+                                    class="linkedin"><i class="bx bxl-linkedin"></i></a>
                             </div>
                         </div>
                     </div>
@@ -523,8 +532,10 @@
                         <ul>
                             <!-- <li><i class="bx bx-chevron-right"></i> <a href="#services">Web Design</a></li> -->
                             <li><i class="bx bx-chevron-right"></i> <a href="#services">Web App Base</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Mobile App Development</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Custom Software Solution</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Mobile App Development</a>
+                            </li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Custom Software Solution</a>
+                            </li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#services">IT Consulting</a></li>
                         </ul>
                     </div>
