@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Meet.me | Your IT Solution</title>
+    <title>Meets Indonesia</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
@@ -95,7 +95,7 @@
                 <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center"
                     data-aos="fade-up">
                     <div>
-                        <h1>With Meet.me</h1>
+                        <h1>With Meets</h1>
                         <h1>We'll help you design your digital products that helps grow your businesses</h1>
                         <a href="#about" class="btn-get-started scrollto">Get Started</a>
                     </div>
@@ -434,8 +434,10 @@
                                 <h4>Kevin Putra Yudha Naserwan</h4>
                                 <span>Chief Technology Officer</span>
                                 <div class="social">
-                                    <a href="https://www.instagram.com/kevinnaserwan"><i class="bi bi-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/kevinnaserwan"><i class="bi bi-linkedin"></i></a>
+                                    <a href="https://www.instagram.com/kevinnaserwan"><i
+                                            class="bi bi-instagram"></i></a>
+                                    <a href="https://www.linkedin.com/in/kevinnaserwan"><i
+                                            class="bi bi-linkedin"></i></a>
                                     <a href="https://github.com/KevinNaserwan"><i class="bi bi-github"></i></a>
                                 </div>
                             </div>
@@ -500,7 +502,7 @@
 
                     <div class="col-lg-4 col-md-6">
                         <div class="footer-info">
-                            <h3>Meet.me</h3>
+                            <h3>Meets</h3>
                             <p>
                                 Palembang<br>
                                 Sumatra Selatan, Indonesia<br><br>
@@ -546,7 +548,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong><span>Meet.me</span></strong>. All Rights Reserved
+                &copy; Copyright <strong><span>Meets Indonesia</span></strong>. All Rights Reserved
             </div>
 
         </div>
